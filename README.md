@@ -451,5 +451,5 @@ This project is licensed under the **Apache License 2.0** — see individual fil
 ---
 
 <p align="center">
-  <sub>Built with 🔥 by the AdFeed Studio team · Inspired by <a href="https://confect.io">Confect.io</a></sub>
+  <sub>Built with 🔥 by the AdFeed Studio team ·  </sub>
 </p>
