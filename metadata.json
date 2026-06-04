@@ -1,0 +1,6 @@
+{
+  "name": "AdFeed Studio",
+  "description": "A high-fidelity product feed parser and catalog ad preview studio for Meta, TikTok, and Google Shopping formats with dynamic design-rule badge overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
